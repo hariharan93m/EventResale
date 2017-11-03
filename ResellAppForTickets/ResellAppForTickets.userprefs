@@ -1,10 +1,17 @@
 ﻿<Properties StartupConfiguration="{06770706-35EE-4F90-84E4-2E13AB28B692}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ResellAppForTickets/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ResellAppForTickets/Controllers/Registration/RegistrationController.cs">
     <Files>
-      <File FileName="ResellAppForTickets/Views/_ViewStart.cshtml" Line="1" Column="1" />
-      <File FileName="ResellAppForTickets/Views/Home/Index.cshtml" Line="50" Column="1" />
-      <File FileName="ResellAppForTickets/Views/Login/Index.cshtml" Line="44" Column="1" />
-      <File FileName="ResellAppForTickets/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="ResellAppForTickets/Views/Shared/_Layout.cshtml" Line="16" Column="18" />
+      <File FileName="ResellAppForTickets/Controllers/main-controller.js" Line="33" Column="11" />
+      <File FileName="ResellAppForTickets/Views/Home/Index.cshtml" Line="5" Column="21" />
+      <File FileName="ResellAppForTickets/Views/_ViewStart.cshtml" Line="4" Column="1" />
+      <File FileName="ResellAppForTickets/App_Start/RouteConfig.cs" Line="19" Column="51" />
+      <File FileName="ResellAppForTickets/Controllers/HomeController.cs" Line="14" Column="1" />
+      <File FileName="ResellAppForTickets/Views/Login/Index.cshtml" Line="22" Column="19" />
+      <File FileName="ResellAppForTickets/Controllers/LoginController.cs" Line="20" Column="27" />
+      <File FileName="ResellAppForTickets/Views/Login/Details.aspx" Line="8" Column="22" />
+      <File FileName="ResellAppForTickets/Controllers/details-controller.js" Line="2" Column="27" />
+      <File FileName="ResellAppForTickets/Controllers/Registration/RegistrationController.cs" Line="11" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -116,6 +116,7 @@
     </Compile>
     <Compile Include="Models\LoginDetails.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Controllers\Registration\RegistrationController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-theme.css" />
@@ -844,6 +845,8 @@
     <Content Include="Scripts\kendo\2017.3.1018\kendo.web.min.js.map" />
     <Content Include="Scripts\kendo\2017.3.1018\kendo.window.min.js.map" />
     <Content Include="Views\Login\Index.cshtml" />
+    <Content Include="Controllers\main-controller.js" />
+    <Content Include="Views\Login\Details.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\Site.css" />
@@ -854,6 +857,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Controllers\Registration\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\jquery-1.10.2.min.map" />
@@ -885,6 +889,11 @@
         </WebProjectProperties>
       </FlavorProperties>
     </VisualStudio>
+    <MonoDevelop>
+      <Properties>
+        <XspParameters Port="8080" Address="127.0.0.1" SslMode="None" SslProtocol="Default" KeyType="None" CertFile="" KeyFile="" PasswordOptions="None" Password="" Verbose="True" />
+      </Properties>
+    </MonoDevelop>
   </ProjectExtensions>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.
